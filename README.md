@@ -13,3 +13,11 @@ TBD
 ## How to run
 
 TBD
+
+## License
+
+[MIT](LICENSE)
+
+## Author Information
+
+Created by [Philippe Bößling](https://www.gihub.com/pboessling).
